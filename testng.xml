@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
-  <test thread-count="5" name="Test">
+<suite name="Orange API">
+  <test  name="APIs">
     <classes>
-      <class name="com.mazen.Post"/>
-      <class name="com.mazen.logs"/>
-      <class name="com.mazen.first"/>
+      <class name="Runners.TestRunner"/>
+  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
