@@ -2,10 +2,9 @@ Project Name
 OrangeHRM
 
 Description
-Provide a brief description of your project. Explain what it does and why it's useful.
+this is a automated project for OrangeHRM , using rest assured ,java , maven , testng and cucumber
 
 Table of Contents
-
 Prerequisites
 Installation
 Running Tests
